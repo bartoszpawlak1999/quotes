@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="category" max_length="40" name="x_863014_quotes_category" sizeclass="318" type="collection">
+        <element display="true" label="category" max_length="50" name="category" type="string"/>
+    </element>
+</database>

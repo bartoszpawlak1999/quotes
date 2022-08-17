@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d5da9ce48791d11070c9ca280cbb359b" sys_domain="global" table="x_863014_quotes_quotestest" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_category</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-10 10:26:53</sys_created_on>
+            <sys_id>9dda9ce48791d11070c9ca280cbb359e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_863014_quotes_quotestest" sys_domain="global" view="Default view">d5da9ce48791d11070c9ca280cbb359b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-10 10:26:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quotes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-10 10:26:53</sys_created_on>
+            <sys_id>11da9ce48791d11070c9ca280cbb359f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_863014_quotes_quotestest" sys_domain="global" view="Default view">d5da9ce48791d11070c9ca280cbb359b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-10 10:26:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_author</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-10 10:26:53</sys_created_on>
+            <sys_id>91da9ce48791d11070c9ca280cbb359f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_863014_quotes_quotestest" sys_domain="global" view="Default view">d5da9ce48791d11070c9ca280cbb359b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-10 10:26:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_863014_quotes_quotestest</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-10 10:26:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5da9ce48791d11070c9ca280cbb359b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_863014_quotes_quotestest</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Quotes" source="x_863014_quotes">1e2f6b0c87dd511070c9ca280cbb3587</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Quotes">1e2f6b0c87dd511070c9ca280cbb3587</sys_scope>
+            <sys_update_name>sys_ui_section_d5da9ce48791d11070c9ca280cbb359b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-10 10:26:53</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="9960b74c87dd511070c9ca280cbb35e1" sys_domain="global" table="x_863014_quotes_quotes" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-09 13:45:55</sys_created_on>
+            <sys_id>f2ce330c8711911070c9ca280cbb356f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_863014_quotes_quotes" sys_domain="global" view="Default view">9960b74c87dd511070c9ca280cbb35e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-09 13:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_author</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-09 13:45:55</sys_created_on>
+            <sys_id>7ace330c8711911070c9ca280cbb356f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_863014_quotes_quotes" sys_domain="global" view="Default view">9960b74c87dd511070c9ca280cbb35e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-09 13:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quotes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-09 13:45:55</sys_created_on>
+            <sys_id>face330c8711911070c9ca280cbb356f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_863014_quotes_quotes" sys_domain="global" view="Default view">9960b74c87dd511070c9ca280cbb35e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-09 13:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_category</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-09 13:45:55</sys_created_on>
+            <sys_id>7ece330c8711911070c9ca280cbb356f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_863014_quotes_quotes" sys_domain="global" view="Default view">9960b74c87dd511070c9ca280cbb35e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-09 13:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-10 09:24:55</sys_created_on>
+            <sys_id>2dac4ce88711d11070c9ca280cbb356a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_863014_quotes_quotes" sys_domain="global" view="Default view">9960b74c87dd511070c9ca280cbb35e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-10 09:24:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>author</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-10 14:46:52</sys_created_on>
+            <sys_id>e156116087d5d11070c9ca280cbb3543</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_863014_quotes_quotes" sys_domain="global" view="Default view">9960b74c87dd511070c9ca280cbb35e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-10 14:46:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>useddate</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-16 16:21:46</sys_created_on>
+            <sys_id>46956c2a87d5111070c9ca280cbb3575</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_863014_quotes_quotes" sys_domain="global" view="Default view">9960b74c87dd511070c9ca280cbb35e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-16 16:21:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activenow</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-16 16:21:46</sys_created_on>
+            <sys_id>86956c2a87d5111070c9ca280cbb357d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_863014_quotes_quotes" sys_domain="global" view="Default view">9960b74c87dd511070c9ca280cbb35e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-16 16:21:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tested</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-16 19:34:32</sys_created_on>
+            <sys_id>bdb1d9628799111070c9ca280cbb35f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_863014_quotes_quotes" sys_domain="global" view="Default view">9960b74c87dd511070c9ca280cbb35e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-16 19:34:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_863014_quotes_quotes</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-09 12:43:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9960b74c87dd511070c9ca280cbb35e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_863014_quotes_quotes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Quotes" source="x_863014_quotes">1e2f6b0c87dd511070c9ca280cbb3587</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Quotes">1e2f6b0c87dd511070c9ca280cbb3587</sys_scope>
+            <sys_update_name>sys_ui_section_9960b74c87dd511070c9ca280cbb35e1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-09 12:43:00</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

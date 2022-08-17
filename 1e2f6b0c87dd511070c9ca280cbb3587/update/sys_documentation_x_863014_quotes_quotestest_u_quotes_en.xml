@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_quotes" label="Quotes" language="en" table="x_863014_quotes_quotestest">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_quotes</element>
+            <help/>
+            <hint/>
+            <label>Quotes</label>
+            <language>en</language>
+            <name>x_863014_quotes_quotestest</name>
+            <plural>Quotes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-09 12:50:34</sys_created_on>
+            <sys_id>c8227bcc87dd511070c9ca280cbb359f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Quotes</sys_name>
+            <sys_package display_value="Quotes" source="x_863014_quotes">1e2f6b0c87dd511070c9ca280cbb3587</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Quotes">1e2f6b0c87dd511070c9ca280cbb3587</sys_scope>
+            <sys_update_name>sys_documentation_x_863014_quotes_quotestest_u_quotes_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-09 12:50:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

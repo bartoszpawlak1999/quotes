@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="authors" max_length="40" name="x_863014_quotes_authors" sizeclass="10031" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Author" max_length="100" name="author" type="string"/>
+        <element label="FirstName" max_length="40" name="firstname" type="string"/>
+        <element label="LastName" max_length="40" name="lastname" type="string"/>
+    </element>
+</database>
